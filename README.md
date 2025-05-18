@@ -1,7 +1,5 @@
 # Malaria Classification Using Image Processing Techniques
 
-![Malaria Detection Banner](https://via.placeholder.com/800x200?text=Automated+Malaria+Cell+Classification)
-
 ## 📌 Overview
 This project develops an automated system to classify malaria-infected red blood cells (RBCs) in microscopic blood smear images using MATLAB and OpenCV. It detects and categorizes infection severity (Low/Medium/High Parasitaemia) through advanced image processing techniques like edge detection, morphological operations, and feature extraction.
 
